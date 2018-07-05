@@ -1,0 +1,10 @@
+h1 {
+  padding: 20px;
+  margin: 50px;
+  background-color: green;
+  text-align: center;
+}
+
+#list {
+  font-size: 28px;
+};
